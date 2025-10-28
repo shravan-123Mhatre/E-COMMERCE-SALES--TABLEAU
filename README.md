@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📘 Project Overview
+ Project Overview
 
 • The E-Commerce Sales Insights Dashboard is an interactive Tableau project designed to analyze and visualize the performance of an online retail business. It provides a 360° view of key metrics such as Sales,      Profit, Quantity, and Customer Segments, helping stakeholders make data-driven decisions.
 
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-⚙️ Features
+ Features
 
 • Sales Overview Dashboard: Displays total sales, profit, and quantity metrics with year-over-year trends.
 
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-💡 Key Insights
+ Key Insights
 
 • Category Analysis: Technology and Office Supplies generate the highest revenue, while Furniture shows higher discounts but lower profitability.
 
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________
 
 
-📁 File Structure
+ File Structure
 
 E_COMMERCE_SALES_INSIGHTS_PROJ.twbx
 
